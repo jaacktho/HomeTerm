@@ -43,7 +43,7 @@ const WEEK_DAYS = [
   "saturday",
   "sunday",
 ];
-const SEARCH_URL = "https://google.com/search?q=";
+const SEARCH_URL = "https://duckduckgo.com/";
 // Global data
 let promptSymbol = "$";
 let links = {};
